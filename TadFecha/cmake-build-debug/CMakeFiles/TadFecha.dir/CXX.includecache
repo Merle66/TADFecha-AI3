@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/merle/CLionProjects/Actividad Individual 3/TadFecha/Fecha.h
+iostream
+-
+
+C:/Users/merle/CLionProjects/Actividad Individual 3/TadFecha/main.cpp
+cstdlib
+-
+iostream
+-
+ctime
+-
+Fecha.h
+C:/Users/merle/CLionProjects/Actividad Individual 3/TadFecha/Fecha.h
+

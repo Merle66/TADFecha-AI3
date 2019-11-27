@@ -1,0 +1,3 @@
+C:/Users/merle/CLionProjects/Actividad Individual 3/TadFecha/cmake-build-debug/CMakeFiles/TadFecha.dir
+C:/Users/merle/CLionProjects/Actividad Individual 3/TadFecha/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/merle/CLionProjects/Actividad Individual 3/TadFecha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
